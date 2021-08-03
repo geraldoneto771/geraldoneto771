@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá! Eu sou o Geraldo Pires
 
-<!--
-**geraldoneto771/geraldoneto771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com Desenvolvimento Mobile
+- 🌱 Estudando Kotlin 
+- 📫 Contate-me no email: geraldopireslacerda771@gmail.com
 
-Here are some ideas to get you started:
+<div>
+<a href="beacons.page/filhodorelampago"> 
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=geraldoneto771&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldoneto771&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+  
+<div style ="display: inline_block"><br>
+  <img align="center" alt="Geraldo-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+  <img align="center" alt="Geraldo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img width="150cm" align="right" alt="Geraldo-gif" src="https://user-images.githubusercontent.com/57460037/128093953-3637f807-6a99-407f-8848-3ce8555830be.png">
+</div>
+  
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://instagram.com/filhodorelampago" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "geraldopireslacerda771@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/geraldo-pires-b0b8551ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div> 
