@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Geraldo Pires
 
 - 🔭 Hoje trabalho com Desenvolvimento Mobile
-- 🌱 Estudando Kotlin 
+- 🌱 Estudando Kotlin para Android
 - 📫 Contate-me no email: geraldopireslacerda771@gmail.com
 
 <div>
