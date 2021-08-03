@@ -5,7 +5,7 @@
 - 📫 Contate-me no email: geraldopireslacerda771@gmail.com
 
 <div>
-<a href="beacons.page/filhodorelampago"> 
+<a href="https://beacons.page/filhodorelampago"> 
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=geraldoneto771&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldoneto771&layout=compact&langs_count=16&theme=dracula"/>
 </div>
